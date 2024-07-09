@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21700152869",
+    "project_id": "ayna-ff521",
+    "storage_bucket": "ayna-ff521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21700152869:android:42c9025bed8ee21cc4f9cc",
+        "android_client_info": {
+          "package_name": "com.chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2XFcLKrdGoh8jUc88z1o0tlszDpjwBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
